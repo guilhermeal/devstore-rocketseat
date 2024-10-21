@@ -1,4 +1,4 @@
-export default function Loading() {
-    return <div>Carregando...</div>;
+export default function HomeLoading() {
+    return <div>Carregando.xxx..</div>;
   }
   
